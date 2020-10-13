@@ -38,7 +38,7 @@ Follow the steps below -
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/crowntec/termux-style
 
 # change to termux-style dir -
 cd termux-style
@@ -61,7 +61,7 @@ $ termux-style
     │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
     │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
     └──────────────────────────────────────────────────┘
-    [*] By- Aditya Shakya // adi1090x
+    [*] By- Ayoola Matthias// crowntec
 
     [C] Colors (89)
     [F] Fonts (20)
